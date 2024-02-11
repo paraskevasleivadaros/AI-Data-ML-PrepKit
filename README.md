@@ -19,5 +19,6 @@ Ingenii
 
 ### Data Science
 - Data Science Specialization by IBM
+- How to tell a story with data by Udemy
 - Microsoft Certified: Azure Data Fundamentals by Microsoft
 - Python, Data Science & Machine Learning Mini-Course by Data Science Infinity
